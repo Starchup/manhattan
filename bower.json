@@ -1,0 +1,46 @@
+{
+  "name": "manhattan",
+  "description": "Manhattan is a powerful, mobile-first responsive framework built on top of Bourbon Neat",
+  "version": "0.4.2",
+  "main": "app/assets/stylesheets/_manhattan.sass",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "NEWS.md",
+    "Rakefile",
+    "bin",
+    "lib",
+    "neat.gemspec",
+    "sache.json",
+    "spec",
+    "test"
+  ],
+  "keywords": [
+    "bourbon",
+    "columns",
+    "grid",
+    "layout",
+    "media",
+    "media-queries",
+    "neat",
+    "queries",
+    "sass",
+    "scss",
+    "semantic"
+  ],
+  "authors": [
+    "kohactive (http://kohactive.com)"
+  ],
+  "homepage": "http://kohactive.github.io/manhattan/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kohactive/manhattan.git"
+  },
+  "dependencies": {
+    "bourbon": ">=2.1",
+    "neat": ">= 1.4.0"
+  }
+}
