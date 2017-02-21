@@ -1,7 +1,7 @@
 {
   "name": "manhattan",
   "description": "Manhattan is a powerful, mobile-first responsive framework built on top of Bourbon Neat",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "main": "app/assets/stylesheets/_manhattan.sass",
   "license": "MIT",
   "ignore": [
@@ -41,6 +41,6 @@
   },
   "dependencies": {
     "bourbon": ">=2.1",
-    "neat": ">= 1.4.0"
+    "neat": "1.8.0"
   }
 }
